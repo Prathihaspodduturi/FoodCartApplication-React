@@ -1,5 +1,7 @@
 import classes from './MealsSummary.module.css';
 
+//Hello all
+
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
