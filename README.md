@@ -8,7 +8,7 @@ Cart Management: After adding items, users can view their cart, make modificatio
 
 # Getting started
 
-Clone the Repository : git clone <repository-url>.
+Clone the Repository : git clone https://github.com/Prathihaspodduturi/FoodCartApplication-React.git.
 
 Navigate to Project Directory : cd #project-name
 
