@@ -8,9 +8,10 @@ Cart Management: After adding items, users can view their cart, make modificatio
 
 # Getting started
 
-Step 1: git clone <repository-url>
-step 2: npm install
-step 3: npm start
+Clone the Repository : git clone <repository-url>.
+Navigate to Project Directory : cd #project-name
+Install Dependencies : npm install.
+Start the Development Server: npm start.
 
 The app should open in default web browser at http"//localhost:3000.
 
